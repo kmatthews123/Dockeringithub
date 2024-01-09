@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dockeringithub:
+    image: dockeringithub
+    build:
+      context: .
+      dockerfile: ./Dockerfile

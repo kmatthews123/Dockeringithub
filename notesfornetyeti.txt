@@ -1,0 +1,21 @@
+Notes on docker 
+
+open new project in codespaces
+ - how do you do that, I got some screenshots showing how to do that. Will include these.
+
+add extensions, maybe show a little picture of the extension logo?
+
+for adding docker files to codespace you should add that you can use the command listed below or generate them manualy
+adding that you can do this with "Docker: Add Docker Files to Workspace"
+
+I got hung up with two = signs in the requirements .txt thing but aside from that wstuff worked
+
+the docker compose run -rm seems to want one more arg. not sure what to put in there based on the document. 
+
+may want to make sure people know how to get into the terminal
+
+
+going to add stuff 
+ - dev container and cicd and making it your own
+
+30 minutse to make plus q&A
